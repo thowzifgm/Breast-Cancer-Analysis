@@ -1,9 +1,6 @@
 # Breast Cancer Analysis
 Breast Cancer Analysis - Decision Trees, Logistic Regression &amp; KNN
 
-## Declaration
-I, Abdullah Thowzif Hameed, declare that the attached assignment is my own work in accordance with the Seneca Academic Policy. I have not copied any part of this assignment, manually or electronically, from any other source including web sites, unless specified as references. I have not distributed my work to other students.
-
 ## Introduction
 Every year, breast cancer affects two million women. Breast cancer should be treated as soon as it is discovered to increase survival rates. Recurring incidents are seen even when they are still being treated at the first stage. Age, menopause, tumors size, inv nodes, node caps, degree of malignancy, side of the breast, and breast quadrant are some of the characteristics that may contribute to the recurrence of breast cancer that will be examined in this study. The dataset consists of 286 observations and 10 variables. 201 instances of one class and 85 instances of another are included in this data collection. Nine qualities, some of which are linear and some of which are nominal, are used to characterize the instances.
 
