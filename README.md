@@ -40,15 +40,10 @@ H0: The variables are not correlated with each other.
 •	For Class and tumorsize, we failed to reject H0, they are not related to each other.
 •	For Breast and tumorsize, we reject H0, the variables are related to each other.
 •	For Breast and Breast Quad, we reject H0, the variables are related to each other.
-
- 
-Pre-Processing Of Variables 
  
 Pre-Processing Of Categorical Features
 •	X as the Feature Matrix 
 •	y as the response vector 
-Response Matrix
- 
 
 ## Predictive Models
 ### Model 1: Decision Tree
@@ -66,11 +61,9 @@ Avg accuracy: 0.5092162554426706
 •	Precision is a measure of the accuracy provided that a class label has been predicted. It is defined by: Precision = TP / (TP + FP)
 •	Recall is the true positive rate. It is defined as: Recall = TP / (TP + FN)
 
-## #Model 3: KNN
- 
+### Model 3: KNN
 
 Applying K fold cross validation
- 
 The best accuracy was with 0.5849056603773585 with k=1
 
 ## Conclusion
